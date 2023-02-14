@@ -1,0 +1,22 @@
+.classContainer {
+  border: 1px solid beige;
+  border-radius: 3px;
+  /* padding: 7px 11px; */
+  margin: 20px;
+  width: 500px;
+}
+
+.cardBody {
+  font-size: 0.7em;
+  padding: 9px 13px;
+  margin-bottom: 13px;
+}
+
+.cardHeading {
+  background-color: beige;
+  color: green;
+  margin-bottom: 20px;
+  font-size: 0.9em;
+  font-weight: 700;
+  text-align: center;
+}
