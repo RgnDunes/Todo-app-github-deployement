@@ -11,7 +11,7 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h1> Todo Application - Netlify</h1>
+        <h1> Todo Application - Github Pages</h1>
         <InputGroup todoList={todoList} setTodoList={setTodoList} />
         <hr />
 
